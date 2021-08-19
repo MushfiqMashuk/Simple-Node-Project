@@ -1,2 +1,2 @@
-# Uptime-Monitoring-API
-Uptime monitoring API created with raw Node.js
+# Simple-Node-Project
+Quote generator project created with raw Node.js
